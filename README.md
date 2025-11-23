@@ -15,8 +15,9 @@
 # Мои проекты:
 
 ### Менеджер Проектов (Backend) на FastAPI/SqlAlchemy/Docker/Pytest (В разработке): [Код](https://github.com/Emin-07/Project-Handler)
-* Dependency injection / Middleware / Документация с помощью pydantic / Миграции с помощью Alembic 
-* Асинхронный код / Моки / Фикстуры / ORM subqueries
+* Dependency injection / Middleware / Документация с помощью pydantic / Авторизация
+* Асинхронный код / SQLAlchemy ORM & SQLAlchemy Core / many2many связи 
+* Миграции с помощью Alembic / Тесты / Фикстуры / Моки
 
 ### Другие мои проекты (на фронте):
 * Pokemon image slider JS/HTML/CSS (Promise, Debounce, Throttle, Адаптивная верстка): [Код](https://github.com/Emin-07/Project-Handler) | [Демо](https://emin-07.github.io/Pokemon-image-slider/)
