@@ -14,7 +14,7 @@
 
 # Мои проекты:
 
-### Менеджер Проектов (Backend) на FastAPI/SqlAlchemy/Docker/Pytest (В разработке): [Код](https://github.com/Emin-07/Project-Handler)
+### Менеджер Проектов (Backend) на FastAPI/SqlAlchemy/Docker/Pytest: [Код](https://github.com/Emin-07/Project-Handler)
 * Dependency injection / Middleware / Документация с помощью pydantic / Авторизация
 * Асинхронный код / SQLAlchemy ORM & SQLAlchemy Core / many2many связи/ n+1 query
 * Миграции с помощью Alembic / Тесты / Фикстуры / Моки
