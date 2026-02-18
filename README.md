@@ -19,7 +19,15 @@
 * Асинхронный код / SQLAlchemy ORM & SQLAlchemy Core / many2many связи/ n+1 query
 * Миграции с помощью Alembic / Тесты / Фикстуры / Моки
 
-### Другие мои проекты (на фронте):
+### PlanIt (Backend) на FastAPI/SqlAlchemy/Docker/Pytest/CI/CD/RabbitMQ/Redis (В разработке): [Код](https://github.com/Emin-07/PlanIt)
+* Продвинутая Авторизация, Blacklisting, Refresh токены, письмо на почту если забыли пароль
+* Rate Limiter написанный на Redis, использовал алгоритм Sliding Window для улучшения безопасности сайта
+* Async RabbitMQ чтобы не потерять отправленные сообщения в случае сбоя
+* Асинхронный код / SQLAlchemy ORM & SQLAlchemy Core / many2many связи/ n+1 query
+* Миграции с помощью Alembic / Тесты / Фикстуры / Моки
+* CI/CD использовал github actions для автоматизации тестов при сборке программы
+
+### FrontEnd проекты:
 * Pokemon image slider JS/HTML/CSS (Promise, Debounce, Throttle, Адаптивная верстка): [Код](https://github.com/Emin-07/Project-Handler) | [Демо](https://emin-07.github.io/Pokemon-image-slider/)
 * Glass Huts HTML/CSS: [Код](https://github.com/Emin-07/Glass-Huts) | [Демо](https://emin-07.github.io/Glass-Huts/)
  
