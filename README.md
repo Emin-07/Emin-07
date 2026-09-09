@@ -15,7 +15,7 @@
 
 ## Связаться со мной
 
-[![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://web.telegram.org/k/#@SaidovEmin)
+[![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://web.telegram.org/k/#@iSaidov7)
 
 
 
